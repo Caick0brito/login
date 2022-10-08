@@ -3,6 +3,10 @@
     display: inline-block;
 }
 
+.txt {
+    margin: 5px;
+}
+
 #email {
     position: relative;
     width: 90%;
