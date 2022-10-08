@@ -1,0 +1,71 @@
+#tudo {
+    display: flex;
+
+}
+
+.checkboxp {
+    margin-left: 0px;
+    display: inline-block;
+}
+
+.checkbox {
+    display: inline-block;
+    margin-right: 0px;
+}
+
+#email {
+    position: relative;
+    width: 90%;
+    display: block
+}
+
+#save {
+    display: block;
+}
+
+#senha {
+    position: relative;
+    width: 90%;
+    display: block
+}
+
+#login {
+    display: inline-block;
+    margin-left: 40%;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.login {
+    border-style: solid;
+    border-radius: 15px;
+    border-color: rgb(1, 180, 171);
+    border-width: 3px;
+    position: relative;
+    background-color: rgb(230, 252, 252);
+}
+
+#tudo {
+    margin: 0px;
+    height: 97vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    margin: 5px;
+    font-size: larger;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    display: inline-block;
+}
+
+input {
+    border-radius: 5px;
+    margin-inline: 5px;
+    padding-top: 5px;
+}
