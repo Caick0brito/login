@@ -1,16 +1,6 @@
-#tudo {
-    display: flex;
-
-}
-
 .checkboxp {
     margin-left: 0px;
     display: inline-block;
-}
-
-.checkbox {
-    display: inline-block;
-    margin-right: 0px;
 }
 
 #email {
@@ -21,6 +11,7 @@
 
 #save {
     display: block;
+    margin-left: 35%;
 }
 
 #senha {
